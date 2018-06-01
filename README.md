@@ -10,7 +10,7 @@ Salmon return to Bristol Bay, Alaska every summer to spawn.  The exact timing an
     1. historical salmon catches in "test" fishery = 'https://www.bbsri.org/'
     1. stream and lake levels = 'https://waterdata.usgs.gov'
     1. tide activity = 'http://kapadia.github.io/usgs/reference/api.html'
-    1. weather activity = 'https://www.wunderground.com/weather/api/d/docs?d=data/history'
+    1. weather activity = 'https://graphical.weather.gov/xml/'
     1. fishing boat activity = 'http://globalfishingwatch.org/'
     
 1. Data clean and transform
