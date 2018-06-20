@@ -28,13 +28,13 @@ def submit_click():
     apply_button = browser.find_elements_by_name('gobtn')
     apply_button.click()
 
-select_date()
-
 try:
     export_links = browser.find_elements_by_name('ReportLinkMenu')
     print(len(export_links))
     export_links[0].click()
 
+
 except:
     print("Not found!")
-# browser.close()
+
+browser.close()
