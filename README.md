@@ -6,8 +6,8 @@ Salmon return to Bristol Bay, Alaska every summer to spawn.  The exact timing an
 ### Work Items:
 1. Data fetch/scrape
     1. fishing boat activity = 'http://globalfishingwatch.org/'
-    * Docs and SDK = https://github.com/GlobalFishingWatch?language=python
-    * More technical docs: https://github.com/GlobalFishingWatch/paper-global-footprint-of-fisheries/blob/master/data_documentation/fishing_effort.md
+        * Docs and SDK = https://github.com/GlobalFishingWatch?language=python
+        * More technical docs: https://github.com/GlobalFishingWatch/paper-global-footprint-of-fisheries/blob/master/data_documentation/fishing_effort.md
     1. historical salmon catches = 'http://www.adfg.alaska.gov/index.cfm?adfg=commercialbyareabristolbay.harvestsummary'
     1. historical salmon counts (what escapes upriver) = 'http://www.adfg.alaska.gov/index.cfm?adfg=commercialbyareabristolbay.salmon#fishcounts'
     1. historical salmon catches in "test" fishery = 'https://www.bbsri.org/'
@@ -15,7 +15,7 @@ Salmon return to Bristol Bay, Alaska every summer to spawn.  The exact timing an
     1. tide activity = 'http://kapadia.github.io/usgs/reference/api.html'
     1. land weather = 'https://graphical.weather.gov/xml/'
     1. marine weather = https://www.ncdc.noaa.gov/data-access/marineocean-data
-    1. more marina data to checkou = https://www.ncdc.noaa.gov/cdo-web/datasets
+    1. more marina data to checkout = https://www.ncdc.noaa.gov/cdo-web/datasets
     1. NOAA web data services guide = https://www.ndbc.noaa.gov/docs/ndbc_web_data_guide.pdf
     1. tides & currents = https://opendap.co-ops.nos.noaa.gov/
 
