@@ -1,7 +1,7 @@
 # Project SalmonSpy
 
 ### Background:
-Salmon return to Bristol Bay, Alaska every summer to spawn.  The exact timing and magnitude of the salmon run is unknown, but predictions are made by ADFG at the start of every year.  The goal of this project is the develop a more accurate prediction of the Bristol Bay salmon run then what's currently provided by ADFG.
+The world's largest poplution of salmon return to Bristol Bay, Alaska every summer to spawn.  The exact timing and magnitude of the salmon run is unknown, but predictions are made by ADFG at the start of every year.  The goal of this project is the develop a more accurate prediction of the Bristol Bay salmon run then what's currently provided by ADFG.
 
 ### Work Items:
 1. Data fetch/scrape
